@@ -1,7 +1,7 @@
-# How to Make a Daily RSS Update 
+# Set-up 
 
-With the death of Google Reader, it is harder to stay on top of
-professional news. 
+With the death of Google Reader, it is more difficult to stay on top of
+professional news. I   
 
 1. Collect RSS feeds you want to follow
    - Authors 
@@ -27,21 +27,30 @@ Google Scholar). The tool is called [email2rss](http://emails2rss.appspot.com/he
 - [Productivity, Innovation & Entreprenseurship](http://www.nber.org/rss/newpr.xml)
 - [Public Economics](http://www.nber.org/rss/newpe.xml)
 
+# Academic Blogs 
+
+- [Peter Crampton's Market Design Blog](http://www.cramton.umd.edu/feed/)
+- Panos 
+- Al Roth's blog 
+
 # Authors 
 
-## Market Design 
+## Market Design
 - [Alvin Roth](http://www.ssrn.com/rss.cfm?author=153478)
-- 
-
+ 
+Jacob Leshno 
+Mandy Pallais 
+Randal Lewis
+Justin Rao 
+Panos Ipeirotis 
 Paul Milgrom 
-
 Glen Weyl 
-
-Ramesh Johair 
+Ramesh Johari 
 Nico 
-# Economics and Technology 
- -[Hal Varian]() 
+Hal Varian 
 Scot Stern 
+Jonathan Levin 
+Liran Einav 
 
 # Computer Science 
 
